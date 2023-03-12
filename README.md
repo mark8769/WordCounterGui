@@ -14,7 +14,7 @@ application, the user can save or only view the data. In both versions,
 the outfile will contain the total word count, each distinct occurrence of a word in 
 dictionary order, and its count.
 
-# ** Contents**
+# **Contents**
 
 For this project we will have 7 files, following (Model View Controller) model
 
