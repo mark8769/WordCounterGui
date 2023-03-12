@@ -46,7 +46,7 @@ Run Program: java MainDriver foobar.txt
 
 Compilation: javac MainDriver.java
 
-### ** 2nd Step** 
+### **2nd Step** 
 
 Run Program: java MainDriver
 
