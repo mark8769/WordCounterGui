@@ -1,3 +1,7 @@
+# **Demo**
+
+![](readmeResources/wordCounterDemo.gif)
+
 # **Purpose**
 
 This project aims to take in a text document and read in and count 
