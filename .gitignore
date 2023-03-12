@@ -1,2 +1,5 @@
 # Ignore java compiles classes
 *.class
+
+# Ignore mac files
+*.DS_Store
