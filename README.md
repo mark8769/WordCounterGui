@@ -1,12 +1,12 @@
 # **Purpose**
 
-The purpose of this project is to take in a text document and read in and count 
-all occurrences of each word. In our completed project, the user can either give
+This project aims to take in a text document and read in and count 
+all occurrences of each word. In the completed project, the user can either give
 a command-line argument to work inside the terminal or use the gui application
 by passing no arguments. Both versions will display the total word count, 
 distinct word count, most common word, and least common word. In our terminal 
 application, data will be automatically written out to an outfile. In our gui 
-application, the user can save the data or only view the data. In both versions,
+application, the user can save or only view the data. In both versions,
 the outfile will contain the total word count, each distinct occurrence of a word in 
 dictionary order, and its count.
 
