@@ -18,13 +18,13 @@ dictionary order, and its count.
 
 For this project we will have 7 files, following (Model View Controller) model
 
-1. MainDriver.java
-2. FileFunctions.java
-3. Gui.java
-4. EventController.java
-4. SDD.docx
-5. SDD.pdf
-6. .gitignore
+1. MainDriver.java - Main entry point of program.
+2. FileFunctions.java - Functions to pull the information needed for the gui.
+3. Gui.java - Gui build
+4. EventController.java - Handles button clicks from gui.
+5. .gitignore
+6. test.txt - Starter file to play around with.
+7. booklong.txt - A longer text file to analyze.
 
 # **How to use**
 
